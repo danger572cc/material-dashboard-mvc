@@ -1,4 +1,4 @@
-# PlataformaGroup Test!
+# PlataformaGroup Test
 
 Ejercicio de prueba usando: .NET Core 6 , Angular, Angular Material, SQL Server.
 
